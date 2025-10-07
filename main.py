@@ -2,7 +2,7 @@ import discord
 import requests
 
 # ===== TOKENS =====
-DISCORD_TOKEN = "MTQyNTA4ODA2ODUyMzY1NTI3OA.G7BaKN.QPusgJJlEyJpShkA7Uc_0rC6dgwTGP8IK75TLU"
+DISCORD_TOKEN = "MTQyNTA4ODA2ODUyMzY1NTI3OA.G3FDyb.lUtURCBWkIAOmdKnn_5W5jMhZYGcloVMvd6SG8"
 GROQ_API_KEY = "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"
 # ==================
 
